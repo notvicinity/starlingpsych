@@ -235,7 +235,10 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+# collections:
+#   hiking:
+#     output: true
+#     permalink: /:collection/:path/
 
 # HTML Compression
 # - https://jch.penibelst.de/
