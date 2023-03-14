@@ -2,7 +2,9 @@
 layout: single
 title:  "Mapping NSW Hikes Using Caltopo"
 date:   2023-03-06 20:00:00 +1100
-categories: hiking
+categories: Hiking
+header:
+    teaser: "/assets/images/teaser/teaser_caltopo.PNG"
 ---
 
 During most (all) of my hikes I've followed a well-known track, covered in trail markers, with a printed out map provided by the relevant park authority in hand. This is great when all you need to do is follow a trail and know when to turn. Combined with a map on your phone or a GPS watch, getting lost is very difficult.
