@@ -1,7 +1,0 @@
----
-permalink: /about/
-title: "About"
-author_profile: true
----
-
-Lillian is an Honours Psychology student at the Australian National University.
