@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Clayton.sh"
+title                    : "starlingpsych.com"
 title_separator          : "-"
-subtitle                 : "Rambles"
-name                     : "Oliver Clayton"
-description              : "A collection of somtimes interesting ideas"
-url                      : https://clayton.sh
+subtitle                 : "Honours at ANU"
+name                     : "Lillian Starling"
+description              : "Pych"
+url                      : https://starlingpsych.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teser_default_3602x2397.JPG" # path of fallback teaser image
+teaser                   : # path of fallback teaser image
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -49,7 +49,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "notvicinity"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -72,9 +72,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oliver Clayton"
+  name             : "Lillian Starling"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "Thrunting and hiking"
+  bio              : "Honours Student at ANU"
   location         : "Australia"
   email            :
   links:
@@ -84,15 +84,15 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/notvicinity"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/notvicinity"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
@@ -100,15 +100,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/notvicinity"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/notvicinity"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:

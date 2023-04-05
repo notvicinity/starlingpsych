@@ -8,10 +8,10 @@ main:
   #   url: /year-archive/
   # - title: "Collections"
   #   url: /collection-archive/
-  - title: "Blog"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
+  # - title: "Blog"
+  #   url: /year-archive/
+  - title: "Study"
+    url: /participate/
   # - title: "Pages"
   #   url: /page-archive/
   # - title: "Tags"
