@@ -37,7 +37,7 @@ The online survey will take between 20-30 minutes and will be conducted via Qual
 3.	When you have finished the survey, submit your responses through Qualtrics. Please feel free to reach out to the researcher or support services provided at the end of the survey (and below) if you have any questions or concerns.
 Thank you!
 
-[Link to Qualtrics survey](https://example)
+[Link to Qualtrics survey](https://anu.au1.qualtrics.com/jfe/form/SV_9pJ0KbHYgtyh8d8)
 
 # Accessing support
 
