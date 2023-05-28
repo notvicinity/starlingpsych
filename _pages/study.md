@@ -27,7 +27,7 @@ Interviews can be arranged directly with the researcher. Interviews will take be
 
 Before reaching out to schedule an interview with me, please read the [interview participant information sheet](/assets/Interview_ParticipantInfoSheet.pdf).
 
-If you would like to participate in an interview, please email me at lillian.starling@anu.edu.au
+If you would like to participate in an interview, please email me at u6680007@anu.edu.au
 
 ## Survey participation
 
