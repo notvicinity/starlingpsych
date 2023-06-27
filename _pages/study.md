@@ -41,7 +41,7 @@ Thank you!
 
 # Accessing support
 
-If participation in this researcher has led to any discomfort or distress, please reach out to myself (Lillian.starling@anu.edu.au) or my supervisor (brett.scholz@anu.edu.au). Alternatively, please feel free to access the resources below. 
+If participation in this researcher has led to any discomfort or distress, please reach out to myself ([u6674497@anu.edu.au](mailto:u6674497@anu.edu.au)) or my supervisor ([brett.scholz@anu.edu.au](mailto:brett.scholz@anu.edu.au)). Alternatively, please feel free to access the resources below. 
 
 **Lifeline Canberra**  
 24-hour crisis support line   
