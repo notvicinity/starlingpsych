@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 entries_layout: grid
 header:
-    og_image: /assets/images/studyteaser.png
-    image: /assets/images/studyteaser.png
+    og_image: "/assets/images/studyteaser.png"
+    image: "/assets/images/studyteaser.png"
 ---
 
 # Study Information
