@@ -4,7 +4,9 @@ permalink: /participate/
 layout: single
 author_profile: true
 entries_layout: grid
-teaser: "/assets/images/studyteaser.png"
+header:
+    og_image: /assets/images/studyteaser.png
+    image: /assets/images/studyteaser.png
 ---
 
 # Study Information
