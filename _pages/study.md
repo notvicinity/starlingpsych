@@ -8,6 +8,8 @@ entries_layout: grid
 
 # Study Information
 
+<span style="color:red">**THANK YOU FOR YOUR INTEREST, PARTICIPATION IN THIS STUDY IS NOW CLOSED. PLEASE CONTACT u6674497@anu.edu.au FOR ANY QUESTIONS OR FEEDBACK.**</span>
+
 Hi!
 
 My name is Lillian and I am conducting research at the Australian National University for my Psychology Honours thesis. My study seeks to explore mental health consumer perspectives towards practitioners with personal (or “lived”) experience of mental illness. I would love to hear your thoughts and invite you to participate in this qualitative exploration. 
@@ -36,8 +38,6 @@ The online survey will take between 20-30 minutes and will be conducted via Qual
 2.	Access the link to the Qualtrics survey below (please note that prior to commencing the survey, you will be required to complete a consent form on the Qualtrics platform)
 3.	When you have finished the survey, submit your responses through Qualtrics. Please feel free to reach out to the researcher or support services provided at the end of the survey (and below) if you have any questions or concerns.
 Thank you!
-
-[Link to Qualtrics survey](https://anu.au1.qualtrics.com/jfe/form/SV_9pJ0KbHYgtyh8d8)
 
 # Accessing support
 
