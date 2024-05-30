@@ -29,7 +29,7 @@ Interviews can be arranged directly with the researcher. Interviews will take be
 
 Before reaching out to schedule an interview with me, please read the [interview participant information sheet](/assets/Interview_ParticipantInfoSheet.pdf).
 
-If you would like to participate in an interview, please email me at [u6674497@anu.edu.au](mailto:u6674497@anu.edu.au)
+If you would like to participate in an interview, please email me at [Lillian.starling@outlook.com](mailto:Lillian.starling@outlook.com)
 
 ## Survey participation
 
@@ -50,3 +50,9 @@ Phone: 13 11 14
 **ANU Counselling Centre**  
 *Participants affiliated with the ANU*  
 Phone: (02) 6125 2442
+
+# Final Thesis
+
+I want to personally thank everyone who volunteered their time to participate in this study. As I progress this thesis’ findings through the publication process, I sincerely hope that this important work and your valuable contributions with work to improve the service delivery of psychology and improve clinical practice in Australia. Thank you!
+
+You can [access the final thesis here](/assets/U6674497_Thesis_PSYC_Honours_2023.pdf) if you would like to read it.

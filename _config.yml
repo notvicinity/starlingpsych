@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "starlingpsych.com"
 title_separator          : "-"
-subtitle                 : "Honours at ANU"
+subtitle                 : "Masters of Psychology (Organisational), Deakin University"
 name                     : "Lillian Starling"
 description              : "Pych"
 url                      : https://starlingpsych.com
@@ -74,8 +74,8 @@ analytics:
 author:
   name             : "Lillian Starling"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "Honours Student at ANU"
-  location         : "Australia"
+  bio              : "Masters of Psychology (Organisational), Deakin University"
+  location         : "Melbourne"
   email            :
   links:
     # - label: "Email"
