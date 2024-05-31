@@ -53,6 +53,6 @@ Phone: (02) 6125 2442
 
 # Final Thesis
 
-I want to personally thank everyone who volunteered their time to participate in this study. As I progress this thesis’ findings through the publication process, I sincerely hope that this important work and your valuable contributions with work to improve the service delivery of psychology and improve clinical practice in Australia. Thank you!
+I want to personally thank everyone who volunteered their time to participate in this study. As I progress this thesis’ findings through the publication process, I sincerely hope that this important work and your valuable contributions improve the service delivery of psychology and improve clinical practice in Australia. Thank you!
 
 You can [access the final thesis here](/assets/U6674497_Thesis_PSYC_Honours_2023.pdf) if you would like to read it.
